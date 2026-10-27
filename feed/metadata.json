@@ -1,0 +1,14 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [{ "Name": "scorn" }],
+        "Name": "Project Pulse Feed",
+        "Description": "Compact project and ledger update feed for Project Pulse",
+        "Id": "org.scorn.projectpulsefeed",
+        "Icon": "view-statistics",
+        "License": "MIT",
+        "Version": "0.1.0",
+        "Category": "System Information"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

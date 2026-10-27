@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="460" viewBox="0 0 760 460">
+  <rect width="760" height="460" fill="#050505"/>
+  <text x="28" y="34" fill="#77766f" font-family="monospace" font-size="12">PROJECT PULSE // HERMES LEDGER</text>
+  <g transform="translate(330 62)">
+    <rect width="400" height="96" fill="#090909"/>
+    <rect width="2" height="96" fill="#e3293b"/>
+    <rect y="95" width="400" height="1" fill="#77766f"/>
+    <text x="10" y="22" fill="#f3f0df" font-family="monospace" font-size="14" font-weight="bold">PROJECT_PULSE</text>
+    <text x="245" y="22" fill="#f3f0df" font-family="monospace" font-size="10">A11 S10 B0 D0</text>
+    <text x="365" y="22" fill="#e3293b" font-family="monospace" font-size="10">LIVE</text>
+    <text x="10" y="47" fill="#77766f" font-family="monospace" font-size="10">TRACE[</text>
+    <text x="55" y="47" fill="#e3293b" font-family="monospace" font-size="10">#############++++++++++++++++........|</text>
+    <text x="385" y="47" fill="#77766f" font-family="monospace" font-size="10">]</text>
+    <text x="10" y="72" fill="#e3293b" font-family="monospace" font-size="10">&gt;</text>
+    <text x="25" y="72" fill="#f3f0df" font-family="monospace" font-size="10">LILITHLIST / STALE</text>
+    <text x="365" y="72" fill="#e3293b" font-family="monospace" font-size="10">[R]</text>
+  </g>
+  <g transform="translate(330 164)">
+    <rect width="400" height="224" fill="#090909" stroke="#e3293b"/>
+    <text x="10" y="20" fill="#77766f" font-family="monospace" font-size="10">PULSE_FEED // LEDGER SIGNALS</text>
+    <text x="372" y="20" fill="#e3293b" font-family="monospace" font-size="10">03</text>
+    <g transform="translate(8 31)">
+      <rect width="384" height="51" fill="#090909" stroke="#e3293b"/>
+      <text x="10" y="23" fill="#e3293b" font-family="monospace" font-size="16">~</text>
+      <text x="33" y="21" fill="#f3f0df" font-family="monospace" font-size="10">LILITHLIST</text>
+      <text x="33" y="37" fill="#77766f" font-family="monospace" font-size="9">STALE // 22D // 2 EVENTS</text>
+      <text x="365" y="27" fill="#e3293b" font-family="monospace" font-size="10">&gt;</text>
+    </g>
+    <g transform="translate(8 87)">
+      <rect width="384" height="51" fill="#090909" stroke="#393939"/>
+      <text x="10" y="23" fill="#e3293b" font-family="monospace" font-size="16">~</text>
+      <text x="33" y="21" fill="#f3f0df" font-family="monospace" font-size="10">TERMINAL NOIR UI KIT</text>
+      <text x="33" y="37" fill="#77766f" font-family="monospace" font-size="9">STALE // 22D // 1 EVENTS</text>
+      <text x="365" y="27" fill="#e3293b" font-family="monospace" font-size="10">&gt;</text>
+    </g>
+    <g transform="translate(8 143)">
+      <rect width="384" height="51" fill="#090909" stroke="#393939"/>
+      <text x="10" y="23" fill="#e3293b" font-family="monospace" font-size="16">~</text>
+      <text x="33" y="21" fill="#f3f0df" font-family="monospace" font-size="10">NUMBPILLED GUMROAD STORE</text>
+      <text x="33" y="37" fill="#77766f" font-family="monospace" font-size="9">STALE // 25D // 3 EVENTS</text>
+      <text x="365" y="27" fill="#e3293b" font-family="monospace" font-size="10">&gt;</text>
+    </g>
+  </g>
+</svg>

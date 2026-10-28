@@ -5,11 +5,19 @@ from __future__ import annotations
 
 import datetime as dt
 import json
+import os
 import re
 from pathlib import Path
 
 
-VAULT = Path("/home/scorn/Documents/Hermes Ledger")
+def ledger_root() -> Path:
+    configured = os.environ.get("PROJECT_PULSE_LEDGER")
+    if configured:
+        return Path(configured).expanduser()
+    return Path.home() / "Documents" / "Hermes Ledger"
+
+
+VAULT = ledger_root()
 PROJECTS = VAULT / "Projects"
 LEDGER = VAULT / "Ledger"
 

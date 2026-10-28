@@ -8,7 +8,7 @@ The design is intentionally closer to a small terminal readout than a dashboard:
 
 ## What it uses
 
-The parser reads `/home/scorn/Documents/Hermes Ledger` and emits a small JSON snapshot containing project names, status, last activity, age, event count, and aggregate counts. It does not display note bodies, credentials, private keys, or raw sensitive payloads.
+The parser reads `~/Documents/Hermes Ledger` and emits a small JSON snapshot containing project names, status, last activity, age, event count, and aggregate counts. Set `PROJECT_PULSE_LEDGER` before starting Plasma when the vault lives elsewhere. It does not display note bodies, credentials, private keys, or raw sensitive payloads.
 
 - `org.scorn.projectpulse` — compact header, counts, animated trace, and rotating project focus.
 - `org.scorn.projectpulsefeed` — connected lower surface with three compact project cards.
